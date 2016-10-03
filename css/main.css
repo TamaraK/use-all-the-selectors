@@ -30,13 +30,14 @@ types {
   background-color: #b58900;
 }
 
-.dfn > strong {
+.dfn strong {
   color: #fff;
 }
 
 html body header nav li mark {
   background-color: #719e07;
 }
+
 a[rel="external"] {
   background-color: #2694d8;
 }
